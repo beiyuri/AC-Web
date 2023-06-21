@@ -1,0 +1,70 @@
+/*Contato*/ 
+body{
+    background-color: paleturquoise;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+}
+a{
+    color: blue;
+    font-size: larger;
+}
+a:hover{
+    color: purple;
+    background-color: powderblue;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+label{
+    text-align: center;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+}
+input{
+    display: flex;
+    min-height: 1vh;
+    padding: 10px;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*Home*/
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 14px;
+}
+/*Imagens*/ 
+.plane{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.design{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.mortes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+div{
+    text-align: center;
+}
